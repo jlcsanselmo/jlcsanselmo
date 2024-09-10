@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**jlcsanselmo/jlcsanselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá eu sou o João Lucas 🖐️🗺️🖥️
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-012595169/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![jlcsanselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=jlcsanselmo&show_icons=true&theme=dark)
+
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="html5"src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div><br/>
+
+Sou um profissional com experiência em análise e interpretação de dados geoespaciais, utilizando ferramentas avançadas como ArcGIS, QGIS e WebGIS.
+
