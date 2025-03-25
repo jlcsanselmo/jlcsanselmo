@@ -17,4 +17,4 @@
  <img align="center" alt="html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/>
 
-Sou um profissional com experiência em análise e interpretação de dados geoespaciais, utilizando ferramentas avançadas como ArcGIS, QGIS e WebGIS.
+Sou um profissional com experiência em análise e interpretação de dados geoespaciais. Especialização em andamento pela PUC Minas, onde me aprofundo em técnicas de Sensoriamento Remoto e WebGIS.
