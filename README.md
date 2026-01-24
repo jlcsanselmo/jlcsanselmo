@@ -17,4 +17,12 @@
  <img align="center" alt="html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/>
 
-Sou um profissional com experiência em análise e interpretação de dados geoespaciais. Especialização em andamento pela PUC Minas, onde me aprofundo em técnicas de Sensoriamento Remoto e WebGIS.
+Especialista e Desenvolvedor GIS, com foco em automação de processos utilizando Python. Profissional com experiência em análise e interpretação de dados geoespaciais. 
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlcsanselmo/jlcsanselmo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlcsanselmo/jlcsanselmo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jlcsanselmo/jlcsanselmo/output/github-contribution-grid-snake.svg">
+</picture>
+
