@@ -39,7 +39,7 @@ current_profile = {
 <br>
 
 <div align="center">
-    <a href="https://linkedin.com/in/bruno-rodrigues-517368206" target="_blank">
+    <a href="https://www.linkedin.com/in/joao-lucas-012595169/" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
     </a>
     &nbsp;
@@ -65,7 +65,6 @@ current_profile = {
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlcsanselmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jlcsanselmo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
